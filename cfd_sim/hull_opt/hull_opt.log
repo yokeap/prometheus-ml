@@ -1,0 +1,21 @@
+Running surfaceFeatureExtract on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running blockMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running topoSet on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running refineMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running topoSet on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running refineMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running topoSet on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running refineMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running topoSet on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running refineMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running topoSet on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running refineMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running topoSet on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running refineMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running snappyHexMesh on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Restore 0/ from 0.orig/
+Running setFields on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Running redistributePar (8 processes) on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt 
+Running renumberMesh (8 processes) on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt 
+Running interFoam (8 processes) on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt 
+Running redistributePar (8 processes) on /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt 

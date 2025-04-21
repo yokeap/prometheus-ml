@@ -1,0 +1,76 @@
+****Resistance resistance_storage: [22.72, 27.0088958, 26.5810318, 25.1370088, 25.3401238, 25.0179204, 25.37778, 25.2258414, 25.3191218, 26.7110826, 24.9817364, 26.4503074, 24.6598036, 25.517483, 24.7458054, 23.662318, 24.2563308, 24.338134, 25.0208886, 24.312562, 25.0771436, 24.9649604, 23.9768944, 24.096913, 24.790375, 23.8287352, 23.7524598, 23.1981912]
+[I 2025-04-18 14:34:27,178] Trial 26 finished with value: 23.1981912 and parameters: {'a1': 0.04659647031514712, 'a2': 0.04513027421533649, 'b1': 0.056545009711273006, 'b2': 0.07016105808715874, 'd1': 0.9990977283811048}. Best is trial 26 with value: 23.1981912.
+shape of x: (5,)
+0.04100359002643901,0.04475895578254779,0.05623361698162209,0.06050732356217493,0.9706892573590515
+*Deleted directory: ./cfd_sim/stl_cfd
+prev is /media/yokeap/Series/simulation/prometheus-ai
+Opening: vessel_c.FCStd
+----> hull line low: 0.04100359002643901
+----> hull line low: 0.04475895578254779
+----> hull line medium: 0.05623361698162209
+----> hull line medium: 0.06050732356217493
+----> hull line bulbus_bow1: 0.9706892573590515
+*Copied directory from ./cad_gen/stl_repo to destination: ./cfd_sim/stl_cfd
+Deleted files from location ./cad_gen/stl_repo
+prev is /media/yokeap/Series/simulation/prometheus-ai
+func path is: /media/yokeap/Series/simulation/prometheus-ai/cfd_sim
+file exist?: 0
+--------------------------------------
+----------- Running CFD --------------
+stl file name: ship_gen
+full path of stl file: ./stl_cfd/ship_gen.stl
+['./run_of.sh', './rough_mesh.dex', './stl_cfd/ship_gen.stl']
+USAGE: run_of.sh dexfile stlfile
+*** Preprocessing *** 
+Dex_of called with arguments:
+ Positional Arguments: ['./dex_of.py', './rough_mesh.dex']
+ Named Arguments: {'infile': './stl_cfd/ship_gen.stl'}
+Path:  /media/yokeap/Series/simulation/prometheus-ai/cfd_sim
+Updated the value for infile given in dex file with  that from the command line
+Your mesh is not closed, the mass methods will not function
+        correctly on this mesh.  For more info:
+        https://github.com/WoLpH/numpy-stl/issues/69
+{'outfile': 'stl_cfd/ship.stl', 'volume': 0.33756343190846555, 'cog': '1.7933336471061028 3.397232202405243e-07 0.15464931005184596', 'inertia': array([[ 6.91088702e-03, -1.06598512e-07,  1.98138792e-03],
+       [-1.06598512e-07,  2.27386367e-01, -1.41676975e-09],
+       [ 1.98138792e-03, -1.41676975e-09,  2.29724456e-01]]), 'boundingbox': [-6e-17, 3.7897017, -0.23478995, 0.23479572, -0.0049377587, 0.28956], 'casefoldername': 'hull_opt', 'runopenfoam': 'yes', 'backgroundof': 'no', 'kOmegaTol': '1e-7', 'upTol': '1e-7', 'maxiter': '2500', 'infile': './stl_cfd/ship_gen.stl', 'Draft': '0.187', 'scalex': '0.001', 'scaley': '0.001', 'scalez': '0.001', 'subdomains': '8', 'kinematic_viscosity': '1.736124635e-6', 'density': '1027.0', 'DomainSizeXFront': '1.2', 'DomainSizeXBack': '2.5', 'DomainSizeYLeft': '10', 'DomainSizeYRight': '15', 'DomainSizeZTop': '3', 'DomainSizeZBottom': '15', 'cellSizeX': '0.7', 'cellSizeY': '0.5', 'cellSizeZ': '0.3', 'maxLocalCells': '100000', 'maxGlobalCells': '100000', 'nsurfacelayers': '3', 'refinementLevel': '(4 6)', 'dexof_path': '/media/yokeap/Series/simulation/prometheus-ai/cfd_sim', 'current_dir': '/media/yokeap/Series/simulation/prometheus-ai/cfd_sim', 'xmin': -9.474, 'xmax': 3.79, 'x_tpd5': 4.039999961853027, 'ymin': -7.044, 'ymax': 0.0, 'zmin': -4.417, 'zmax': 0.883, 'zmid1': -1.0, 'zmid2': 0.14, 'zmid3': 0.187, 'zmid4': 0.234, 'zmid5': 0.883, 'nxgrid': 18, 'nygrid': 7, 'nzgrid': 17, 'nzgrid1': 17, 'nzgrid2': 17, 'nzgrid3': 1, 'nzgrid4': 1, 'nzgrid5': 13, 'nzgrid6': 6, 'xlocinside': -0.7, 'ylocinside': 0, 'zlocinside': 0}
+Warning: Casefolder already exists, files will be overwritten
+Copying:: cp -r /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/ofTemplate/* /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+Case folder (/media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt) has been created 
+Problem definition /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt/problem_def.json is written into the case folder
+**** ALL DONE ****
+/media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+*** Cleaning and Running OF ***
+Cleaning case /media/yokeap/Series/simulation/prometheus-ai/cfd_sim/hull_opt
+ kk^[^[^[^[l;k;lxk;lkcv^C[W 2025-04-18 14:35:58,705] Trial 27 failed with parameters: {'a1': 0.04100359002643901, 'a2': 0.04475895578254779, 'b1': 0.05623361698162209, 'b2': 0.06050732356217493, 'd1': 0.9706892573590515} because of the following error: KeyboardInterrupt().
+Traceback (most recent call last):
+  File "/home/yokeap/.local/lib/python3.10/site-packages/optuna/study/_optimize.py", line 197, in _run_trial
+    value_or_values = func(trial)
+  File "/media/yokeap/Series/simulation/prometheus-ai/main.py", line 126, in objective
+    y = run_cad_cfd(x)
+  File "/media/yokeap/Series/simulation/prometheus-ai/main.py", line 111, in run_cad_cfd
+    result = main_run()
+  File "/media/yokeap/Series/simulation/prometheus-ai/cfd_sim/run_cfd.py", line 110, in main_run
+    Fd_found= run_dex(mesh)
+  File "/media/yokeap/Series/simulation/prometheus-ai/cfd_sim/run_cfd.py", line 44, in run_dex
+    subprocess.call(arg_)
+  File "/usr/lib/python3.10/subprocess.py", line 347, in call
+    return p.wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1209, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1959, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/usr/lib/python3.10/subprocess.py", line 1917, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt
+[W 2025-04-18 14:35:58,734] Trial 27 failed with value None.
+Optimization interrupted.
+
+Best parameters:
+  a1: 0.04659647031514712
+  a2: 0.04513027421533649
+  b1: 0.056545009711273006
+  b2: 0.07016105808715874
+  d1: 0.9990977283811048
+
+Minimum resistance: 23.1981912
+

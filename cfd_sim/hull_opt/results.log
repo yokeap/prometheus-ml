@@ -1,0 +1,2016 @@
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.9577 578.786 925.589)
+        Pressure : (-6.38628 579.001 925.669)
+        Viscous  : (-5.57142 -0.214122 -0.0798529)
+    Sum of moments
+        Total    : (-35.9097 -47.6738 139.123)
+        Pressure : (-35.8972 -48.3612 140.218)
+        Viscous  : (-0.0125607 0.687384 -1.09465)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.8971 577.92 925.315)
+        Pressure : (-6.32627 578.134 925.395)
+        Viscous  : (-5.57088 -0.214367 -0.0804463)
+    Sum of moments
+        Total    : (-35.8945 -47.5123 138.696)
+        Pressure : (-35.8821 -48.1998 139.791)
+        Viscous  : (-0.012408 0.687462 -1.09459)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.48120380000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.5104 571.754 916.066)
+        Pressure : (-7.55074 572.032 916.153)
+        Viscous  : (-5.95965 -0.278234 -0.0874435)
+    Sum of moments
+        Total    : (-35.6406 -45.2165 137.905)
+        Pressure : (-35.6205 -46.0065 139.069)
+        Viscous  : (-0.0201175 0.789989 -1.16412)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.5109 571.861 916.115)
+        Pressure : (-7.54735 572.139 916.203)
+        Viscous  : (-5.96352 -0.278123 -0.0874853)
+    Sum of moments
+        Total    : (-35.6418 -45.2175 137.905)
+        Pressure : (-35.6217 -46.0076 139.07)
+        Viscous  : (-0.0201019 0.790074 -1.16495)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 27.23978540000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.4163 571.617 924.365)
+        Pressure : (-6.76763 571.887 924.425)
+        Viscous  : (-5.64863 -0.270646 -0.0599038)
+    Sum of moments
+        Total    : (-36.4873 -48.6518 134.067)
+        Pressure : (-36.4642 -49.3924 135.116)
+        Viscous  : (-0.0230197 0.740566 -1.0486)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.411 571.516 924.371)
+        Pressure : (-6.76468 571.786 924.431)
+        Viscous  : (-5.64627 -0.270716 -0.059781)
+    Sum of moments
+        Total    : (-36.4871 -48.6626 134.038)
+        Pressure : (-36.4641 -49.4032 135.086)
+        Viscous  : (-0.0230454 0.740601 -1.04807)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.80993600000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.2731 573.121 914.863)
+        Pressure : (-7.28557 573.435 914.976)
+        Viscous  : (-5.98755 -0.314251 -0.11307)
+    Sum of moments
+        Total    : (-35.5134 -45.2691 139.598)
+        Pressure : (-35.4923 -45.9808 140.794)
+        Viscous  : (-0.0210906 0.711725 -1.19594)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.259 572.961 914.796)
+        Pressure : (-7.27179 573.275 914.91)
+        Viscous  : (-5.98722 -0.31425 -0.113908)
+    Sum of moments
+        Total    : (-35.5128 -45.2402 139.443)
+        Pressure : (-35.4919 -45.9516 140.638)
+        Viscous  : (-0.0208758 0.71131 -1.19576)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.73005500000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.2061 572.253 915.363)
+        Pressure : (-6.81015 572.462 915.465)
+        Viscous  : (-6.39591 -0.208996 -0.102025)
+    Sum of moments
+        Total    : (-35.5527 -45.5117 136.83)
+        Pressure : (-35.5443 -46.2718 138.102)
+        Viscous  : (-0.00841441 0.760077 -1.27146)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.2013 572.26 915.362)
+        Pressure : (-6.80608 572.469 915.465)
+        Viscous  : (-6.39518 -0.209349 -0.102431)
+    Sum of moments
+        Total    : (-35.5552 -45.4816 136.796)
+        Pressure : (-35.5469 -46.2417 138.067)
+        Viscous  : (-0.00829693 0.760091 -1.2714)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 27.00889580000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.1521 574.284 917.801)
+        Pressure : (-7.00565 574.589 917.91)
+        Viscous  : (-6.1465 -0.304914 -0.109008)
+    Sum of moments
+        Total    : (-35.6495 -45.6921 141.215)
+        Pressure : (-35.6322 -46.4829 142.417)
+        Viscous  : (-0.0172297 0.790781 -1.20202)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.1632 574.451 917.924)
+        Pressure : (-7.02137 574.756 918.034)
+        Viscous  : (-6.14186 -0.305229 -0.109808)
+    Sum of moments
+        Total    : (-35.654 -45.7483 141.326)
+        Pressure : (-35.6369 -46.5393 142.527)
+        Viscous  : (-0.0170394 0.790986 -1.20106)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.58103180000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.5253 571.458 921.193)
+        Pressure : (-6.75331 571.712 921.258)
+        Viscous  : (-5.77196 -0.254079 -0.0645311)
+    Sum of moments
+        Total    : (-36.4333 -45.0826 130.531)
+        Pressure : (-36.4171 -45.6769 131.642)
+        Viscous  : (-0.0162032 0.59422 -1.11129)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.525 571.463 921.196)
+        Pressure : (-6.75456 571.717 921.261)
+        Viscous  : (-5.77046 -0.253893 -0.0643496)
+    Sum of moments
+        Total    : (-36.4336 -45.0798 130.537)
+        Pressure : (-36.4174 -45.6741 131.648)
+        Viscous  : (-0.0162688 0.594367 -1.11095)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.13700880000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.5793 572.244 915.466)
+        Pressure : (-6.8209 572.459 915.564)
+        Viscous  : (-5.7584 -0.21531 -0.0976687)
+    Sum of moments
+        Total    : (-35.822 -44.4875 141.834)
+        Pressure : (-35.8141 -45.2355 142.956)
+        Viscous  : (-0.00791159 0.747967 -1.12186)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.5671 572.259 915.488)
+        Pressure : (-6.80807 572.474 915.585)
+        Viscous  : (-5.75906 -0.21526 -0.0974388)
+    Sum of moments
+        Total    : (-35.8253 -44.4984 141.792)
+        Pressure : (-35.8173 -45.2464 142.914)
+        Viscous  : (-0.00797528 0.74801 -1.12202)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.34012380000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.385 572.438 920.028)
+        Pressure : (-6.66518 572.686 920.11)
+        Viscous  : (-5.71979 -0.248382 -0.0820545)
+    Sum of moments
+        Total    : (-36.2706 -44.7215 132.989)
+        Pressure : (-36.255 -45.4858 134.085)
+        Viscous  : (-0.0155916 0.764257 -1.0955)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.385 572.467 920.009)
+        Pressure : (-6.66307 572.716 920.091)
+        Viscous  : (-5.72189 -0.248402 -0.0817001)
+    Sum of moments
+        Total    : (-36.2673 -44.7152 132.991)
+        Pressure : (-36.2516 -45.4794 134.087)
+        Viscous  : (-0.0156664 0.764208 -1.09596)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.01792040000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.701 570.785 920.346)
+        Pressure : (-6.93514 571.079 920.434)
+        Viscous  : (-5.76591 -0.294066 -0.0883248)
+    Sum of moments
+        Total    : (-36.2286 -45.8055 135.098)
+        Pressure : (-36.2041 -46.5239 136.214)
+        Viscous  : (-0.0244875 0.718322 -1.116)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6934 570.683 920.303)
+        Pressure : (-6.92679 570.977 920.392)
+        Viscous  : (-5.76659 -0.294125 -0.0883685)
+    Sum of moments
+        Total    : (-36.2266 -45.7756 134.978)
+        Pressure : (-36.2021 -46.4937 136.094)
+        Viscous  : (-0.0244836 0.718105 -1.11623)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.37778000000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.6825 577.31 923.495)
+        Pressure : (-6.65482 577.597 923.581)
+        Viscous  : (-6.02766 -0.286501 -0.086112)
+    Sum of moments
+        Total    : (-35.9099 -46.6406 140.44)
+        Pressure : (-35.8917 -47.4171 141.578)
+        Viscous  : (-0.0181518 0.776503 -1.13817)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6805 577.21 923.487)
+        Pressure : (-6.65353 577.497 923.574)
+        Viscous  : (-6.02693 -0.286829 -0.0864828)
+    Sum of moments
+        Total    : (-35.9103 -46.6507 140.411)
+        Pressure : (-35.8923 -47.427 141.549)
+        Viscous  : (-0.0180648 0.776323 -1.13798)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.22584140000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.763 579.285 920.957)
+        Pressure : (-6.92753 579.491 921.064)
+        Viscous  : (-5.83545 -0.205998 -0.107782)
+    Sum of moments
+        Total    : (-35.5341 -45.652 143.064)
+        Pressure : (-35.5281 -46.4452 144.214)
+        Viscous  : (-0.0059318 0.793176 -1.15053)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7675 579.269 921.029)
+        Pressure : (-6.93464 579.475 921.137)
+        Viscous  : (-5.83283 -0.205864 -0.107616)
+    Sum of moments
+        Total    : (-35.5384 -45.7019 143.097)
+        Pressure : (-35.5324 -46.4952 144.247)
+        Viscous  : (-0.00597063 0.793326 -1.15003)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.31912180000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.3148 567.502 909.898)
+        Pressure : (-7.52302 567.69 910.047)
+        Viscous  : (-5.79177 -0.18796 -0.149341)
+    Sum of moments
+        Total    : (-35.1772 -46.1281 141.051)
+        Pressure : (-35.1782 -46.9219 142.183)
+        Viscous  : (0.000932243 0.793834 -1.1328)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.3149 567.476 909.878)
+        Pressure : (-7.52306 567.664 910.027)
+        Viscous  : (-5.79182 -0.188105 -0.149441)
+    Sum of moments
+        Total    : (-35.1777 -46.1258 141.037)
+        Pressure : (-35.1787 -46.9195 142.169)
+        Viscous  : (0.000958731 0.79369 -1.13282)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.71108260000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.5971 576.481 918.659)
+        Pressure : (-7.23177 576.793 918.725)
+        Viscous  : (-5.36538 -0.31213 -0.0652783)
+    Sum of moments
+        Total    : (-35.6096 -44.4523 141.488)
+        Pressure : (-35.5829 -45.122 142.558)
+        Viscous  : (-0.0267015 0.669771 -1.06958)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6048 576.423 918.636)
+        Pressure : (-7.23891 576.735 918.702)
+        Viscous  : (-5.36588 -0.312459 -0.0657433)
+    Sum of moments
+        Total    : (-35.6114 -44.484 141.513)
+        Pressure : (-35.5849 -45.1535 142.583)
+        Viscous  : (-0.0265792 0.669482 -1.06956)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.98173640000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.1353 571.77 919.006)
+        Pressure : (-7.45685 572.092 919.104)
+        Viscous  : (-5.67845 -0.322527 -0.097741)
+    Sum of moments
+        Total    : (-36.1846 -44.5195 135.816)
+        Pressure : (-36.1605 -45.1948 136.948)
+        Viscous  : (-0.0240836 0.675283 -1.13232)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.1371 571.733 918.978)
+        Pressure : (-7.45704 572.056 919.076)
+        Viscous  : (-5.68006 -0.322948 -0.0982763)
+    Sum of moments
+        Total    : (-36.1863 -44.5319 135.823)
+        Pressure : (-36.1624 -45.2074 136.956)
+        Viscous  : (-0.0239446 0.675481 -1.13278)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.45030740000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.4557 573.575 921.711)
+        Pressure : (-6.94695 573.86 921.814)
+        Viscous  : (-5.50878 -0.28505 -0.102978)
+    Sum of moments
+        Total    : (-36.0324 -46.9484 137.68)
+        Pressure : (-36.0141 -47.6021 138.751)
+        Viscous  : (-0.01821 0.653737 -1.07158)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.4533 573.614 921.714)
+        Pressure : (-6.94496 573.899 921.818)
+        Viscous  : (-5.50835 -0.285154 -0.103483)
+    Sum of moments
+        Total    : (-36.0327 -46.9506 137.676)
+        Pressure : (-36.0146 -47.6044 138.747)
+        Viscous  : (-0.0180977 0.653787 -1.0713)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.65980360000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.877 577.217 924.512)
+        Pressure : (-7.04825 577.471 924.543)
+        Viscous  : (-5.82871 -0.253679 -0.031655)
+    Sum of moments
+        Total    : (-35.418 -50.0054 149.508)
+        Pressure : (-35.3946 -50.5993 150.63)
+        Viscous  : (-0.0234032 0.593849 -1.12128)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.8817 577.2 924.546)
+        Pressure : (-7.05378 577.453 924.577)
+        Viscous  : (-5.82796 -0.253785 -0.0316169)
+    Sum of moments
+        Total    : (-35.4209 -50.0247 149.541)
+        Pressure : (-35.3975 -50.6186 150.662)
+        Viscous  : (-0.0234068 0.593843 -1.12103)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.51748300000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2757 582.847 919.565)
+        Pressure : (-6.75605 583.114 919.574)
+        Viscous  : (-5.51967 -0.267644 -0.00865146)
+    Sum of moments
+        Total    : (-34.8747 -45.2379 155.797)
+        Pressure : (-34.8436 -45.8136 156.875)
+        Viscous  : (-0.0310787 0.575677 -1.07785)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.2673 582.825 919.549)
+        Pressure : (-6.74934 583.093 919.558)
+        Viscous  : (-5.51791 -0.267607 -0.00869219)
+    Sum of moments
+        Total    : (-34.8726 -45.207 155.732)
+        Pressure : (-34.8415 -45.7827 156.809)
+        Viscous  : (-0.0310753 0.575684 -1.07747)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.74580540000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.9257 582.812 922.231)
+        Pressure : (-6.46867 583.064 922.232)
+        Viscous  : (-5.45699 -0.251927 -0.00073674)
+    Sum of moments
+        Total    : (-35.084 -46.514 153.53)
+        Pressure : (-35.0556 -47.1686 154.537)
+        Viscous  : (-0.0283282 0.654603 -1.00624)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.9277 582.822 922.223)
+        Pressure : (-6.47183 583.074 922.224)
+        Viscous  : (-5.4559 -0.251909 -0.000589592)
+    Sum of moments
+        Total    : (-35.0831 -46.5254 153.546)
+        Pressure : (-35.0547 -47.18 154.552)
+        Viscous  : (-0.0283634 0.654612 -1.00601)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.66231800000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.058 576.675 920.798)
+        Pressure : (-6.43678 576.867 920.898)
+        Viscous  : (-5.62117 -0.191976 -0.100787)
+    Sum of moments
+        Total    : (-35.4738 -46.0607 146.965)
+        Pressure : (-35.4721 -46.7657 148.041)
+        Viscous  : (-0.00166225 0.70497 -1.07649)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.0548 576.718 920.833)
+        Pressure : (-6.43659 576.909 920.934)
+        Viscous  : (-5.6182 -0.191483 -0.1008)
+    Sum of moments
+        Total    : (-35.4762 -46.0624 146.963)
+        Pressure : (-35.4746 -46.7677 148.039)
+        Viscous  : (-0.00167279 0.705269 -1.07587)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.25633080000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2613 572.937 919.906)
+        Pressure : (-6.8252 573.147 919.988)
+        Viscous  : (-5.43607 -0.209642 -0.0813277)
+    Sum of moments
+        Total    : (-35.9905 -44.3448 137.551)
+        Pressure : (-35.9825 -45.0265 138.603)
+        Viscous  : (-0.00799223 0.68165 -1.05156)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.3255 573.97 920.416)
+        Pressure : (-6.88869 574.18 920.497)
+        Viscous  : (-5.4368 -0.20984 -0.0809295)
+    Sum of moments
+        Total    : (-36.0078 -44.9365 138.165)
+        Pressure : (-35.9997 -45.6185 139.217)
+        Viscous  : (-0.00811444 0.681958 -1.05189)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.33813400000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.6085 562.251 919.133)
+        Pressure : (-6.98181 562.531 919.22)
+        Viscous  : (-5.62672 -0.279544 -0.0871851)
+    Sum of moments
+        Total    : (-37.1279 -45.79 132.686)
+        Pressure : (-37.1089 -46.4622 133.776)
+        Viscous  : (-0.0190875 0.672199 -1.09069)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6019 562.15 919.115)
+        Pressure : (-6.97479 562.43 919.203)
+        Viscous  : (-5.62706 -0.279622 -0.0871632)
+    Sum of moments
+        Total    : (-37.1282 -45.7744 132.578)
+        Pressure : (-37.1091 -46.4464 133.669)
+        Viscous  : (-0.0190686 0.671947 -1.09082)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.02088860000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2699 578.611 921.881)
+        Pressure : (-6.94237 578.832 921.862)
+        Viscous  : (-5.32752 -0.221234 0.0182837)
+    Sum of moments
+        Total    : (-35.3897 -49.26 151.613)
+        Pressure : (-35.3583 -49.8735 152.572)
+        Viscous  : (-0.0313727 0.613501 -0.959425)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.2753 578.558 921.821)
+        Pressure : (-6.94815 578.779 921.802)
+        Viscous  : (-5.32717 -0.220887 0.0185704)
+    Sum of moments
+        Total    : (-35.3845 -49.1882 151.596)
+        Pressure : (-35.3531 -49.8019 152.556)
+        Viscous  : (-0.0314501 0.613681 -0.959477)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.31256200000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.5828 568.212 920.305)
+        Pressure : (-7.07925 568.422 920.391)
+        Viscous  : (-5.50356 -0.209801 -0.0860813)
+    Sum of moments
+        Total    : (-36.6797 -45.2807 128.962)
+        Pressure : (-36.6728 -45.9985 130.021)
+        Viscous  : (-0.00691873 0.717757 -1.05925)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.578 568.193 920.311)
+        Pressure : (-7.07674 568.403 920.398)
+        Viscous  : (-5.50126 -0.210049 -0.08693)
+    Sum of moments
+        Total    : (-36.6774 -45.2839 128.951)
+        Pressure : (-36.6706 -46.0014 130.01)
+        Viscous  : (-0.00673593 0.717459 -1.05848)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.07714360000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.528 581.906 921.138)
+        Pressure : (-6.66128 582.119 921.247)
+        Viscous  : (-5.86675 -0.212733 -0.108674)
+    Sum of moments
+        Total    : (-35.1837 -46.0047 152.689)
+        Pressure : (-35.1805 -46.7161 153.833)
+        Viscous  : (-0.00313926 0.711353 -1.14353)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.5323 582.077 921.217)
+        Pressure : (-6.66605 582.29 921.325)
+        Viscous  : (-5.86624 -0.21257 -0.108396)
+    Sum of moments
+        Total    : (-35.1905 -46.0068 152.706)
+        Pressure : (-35.1873 -46.718 153.85)
+        Viscous  : (-0.00318374 0.711182 -1.14342)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.96496040000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.9586 582.418 925.508)
+        Pressure : (-6.37279 582.618 925.548)
+        Viscous  : (-5.58576 -0.19968 -0.0400637)
+    Sum of moments
+        Total    : (-35.6168 -47.2679 146.655)
+        Pressure : (-35.5984 -47.9788 147.688)
+        Viscous  : (-0.0184754 0.710894 -1.03309)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.9584 582.485 925.553)
+        Pressure : (-6.37569 582.685 925.593)
+        Viscous  : (-5.58267 -0.199581 -0.0402357)
+    Sum of moments
+        Total    : (-35.6189 -47.2543 146.689)
+        Pressure : (-35.6005 -47.9653 147.721)
+        Viscous  : (-0.0184368 0.710956 -1.03221)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.97689440000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.0513 578.009 923.33)
+        Pressure : (-7.07991 578.232 923.294)
+        Viscous  : (-4.97139 -0.223492 0.0356652)
+    Sum of moments
+        Total    : (-35.6859 -48.3102 145.228)
+        Pressure : (-35.6509 -48.8732 146.129)
+        Viscous  : (-0.0350021 0.563027 -0.900786)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.0472 578.01 923.288)
+        Pressure : (-7.07691 578.234 923.253)
+        Viscous  : (-4.97025 -0.223321 0.0355532)
+    Sum of moments
+        Total    : (-35.6833 -48.2954 145.225)
+        Pressure : (-35.6484 -48.8583 146.125)
+        Viscous  : (-0.0349839 0.562874 -0.900516)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.09691300000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.0962 571.59 920.416)
+        Pressure : (-6.38889 571.749 920.506)
+        Viscous  : (-5.70732 -0.159363 -0.0895224)
+    Sum of moments
+        Total    : (-35.8018 -45.4244 133.291)
+        Pressure : (-35.7972 -46.1936 134.361)
+        Viscous  : (-0.00461526 0.769227 -1.0703)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.0882 571.594 920.436)
+        Pressure : (-6.3814 571.753 920.525)
+        Viscous  : (-5.70676 -0.15928 -0.0895271)
+    Sum of moments
+        Total    : (-35.801 -45.4038 133.269)
+        Pressure : (-35.7964 -46.173 134.34)
+        Viscous  : (-0.00462997 0.769166 -1.07025)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.79037500000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.7094 576.154 922.456)
+        Pressure : (-6.00892 576.321 922.541)
+        Viscous  : (-5.70048 -0.16666 -0.0848856)
+    Sum of moments
+        Total    : (-35.6307 -45.1525 138.024)
+        Pressure : (-35.6231 -45.9234 139.093)
+        Viscous  : (-0.00763482 0.77091 -1.06961)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.708 576.244 922.53)
+        Pressure : (-6.00727 576.411 922.615)
+        Viscous  : (-5.70075 -0.166574 -0.0850188)
+    Sum of moments
+        Total    : (-35.6343 -45.15 138.024)
+        Pressure : (-35.6266 -45.9209 139.094)
+        Viscous  : (-0.00760511 0.770896 -1.06976)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.82873520000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.9606 581.507 926.625)
+        Pressure : (-6.33122 581.656 926.711)
+        Viscous  : (-5.62939 -0.149841 -0.0861459)
+    Sum of moments
+        Total    : (-35.6618 -47.0751 143.686)
+        Pressure : (-35.6529 -47.8144 144.747)
+        Viscous  : (-0.00886175 0.739218 -1.06074)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.9417 581.076 926.503)
+        Pressure : (-6.31355 581.226 926.589)
+        Viscous  : (-5.62819 -0.14978 -0.0861947)
+    Sum of moments
+        Total    : (-35.6571 -47.0147 143.572)
+        Pressure : (-35.6482 -47.7537 144.632)
+        Viscous  : (-0.00886755 0.739072 -1.06046)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.75245980000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.6045 581.174 925.431)
+        Pressure : (-6.18381 581.372 925.525)
+        Viscous  : (-5.42066 -0.19759 -0.0936625)
+    Sum of moments
+        Total    : (-35.4417 -46.3419 144.441)
+        Pressure : (-35.4302 -47.0071 145.485)
+        Viscous  : (-0.0114188 0.665154 -1.04312)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.6043 581.195 925.447)
+        Pressure : (-6.18515 581.392 925.54)
+        Viscous  : (-5.41913 -0.197459 -0.093514)
+    Sum of moments
+        Total    : (-35.4434 -46.3525 144.466)
+        Pressure : (-35.432 -47.0175 145.509)
+        Viscous  : (-0.0114484 0.665002 -1.04266)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.19819120000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.1783 565.993 922.492)
+        Pressure : (-7.11139 566.23 922.493)
+        Viscous  : (-5.06695 -0.237749 -0.00139022)
+    Sum of moments
+        Total    : (-36.9528 -47.5023 123.661)
+        Pressure : (-36.9277 -48.1011 124.579)
+        Viscous  : (-0.0251748 0.598829 -0.9174)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.1918 566.269 922.614)
+        Pressure : (-7.1249 566.507 922.616)
+        Viscous  : (-5.06692 -0.238086 -0.00160281)
+    Sum of moments
+        Total    : (-36.9553 -47.6428 123.784)
+        Pressure : (-36.9302 -48.2416 124.701)
+        Viscous  : (-0.0251252 0.598769 -0.917373)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.71992780000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.6793 570.995 920.554)
+        Pressure : (-7.12386 571.258 920.629)
+        Viscous  : (-5.55542 -0.263478 -0.0748419)
+    Sum of moments
+        Total    : (-36.293 -45.608 132.481)
+        Pressure : (-36.2725 -46.2817 133.56)
+        Viscous  : (-0.0205532 0.673661 -1.07896)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6785 571.017 920.583)
+        Pressure : (-7.1242 571.281 920.658)
+        Viscous  : (-5.55434 -0.263442 -0.0757458)
+    Sum of moments
+        Total    : (-36.2952 -45.6262 132.487)
+        Pressure : (-36.2749 -46.3002 133.565)
+        Viscous  : (-0.0203467 0.674006 -1.07865)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.45658720000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.386 574.226 911.287)
+        Pressure : (-7.32829 574.563 911.381)
+        Viscous  : (-6.05772 -0.336982 -0.0945352)
+    Sum of moments
+        Total    : (-35.0834 -46.3571 151.263)
+        Pressure : (-35.0603 -47.072 152.425)
+        Viscous  : (-0.0230556 0.714868 -1.16254)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.3866 574.194 911.263)
+        Pressure : (-7.3285 574.531 911.358)
+        Viscous  : (-6.05812 -0.337089 -0.0951302)
+    Sum of moments
+        Total    : (-35.0832 -46.3508 151.259)
+        Pressure : (-35.0603 -47.066 152.422)
+        Viscous  : (-0.0229052 0.715196 -1.16271)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.89525980000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.9282 577.094 919.164)
+        Pressure : (-7.33863 577.375 919.232)
+        Viscous  : (-5.58958 -0.281121 -0.0684055)
+    Sum of moments
+        Total    : (-35.0348 -48.7971 151.189)
+        Pressure : (-35.0054 -49.4944 152.275)
+        Viscous  : (-0.0293824 0.697254 -1.08624)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.9453 577.203 919.163)
+        Pressure : (-7.3565 577.484 919.232)
+        Viscous  : (-5.58884 -0.28136 -0.0686903)
+    Sum of moments
+        Total    : (-35.0382 -48.8377 151.307)
+        Pressure : (-35.0089 -49.5351 152.393)
+        Viscous  : (-0.0293084 0.697416 -1.0862)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.48179240000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.1552 571.151 923.286)
+        Pressure : (-6.52353 571.399 923.387)
+        Viscous  : (-5.63164 -0.247371 -0.100688)
+    Sum of moments
+        Total    : (-36.5755 -45.1369 124.199)
+        Pressure : (-36.5624 -45.853 125.34)
+        Viscous  : (-0.0131369 0.71608 -1.14075)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.1578 571.066 923.23)
+        Pressure : (-6.51965 571.314 923.331)
+        Viscous  : (-5.6382 -0.247766 -0.101209)
+    Sum of moments
+        Total    : (-36.571 -45.1318 124.184)
+        Pressure : (-36.558 -45.8472 125.326)
+        Viscous  : (-0.013001 0.715395 -1.14211)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.92778240000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.9601 569.149 919.31)
+        Pressure : (-6.73289 569.43 919.36)
+        Viscous  : (-6.22718 -0.281002 -0.049576)
+    Sum of moments
+        Total    : (-36.5403 -45.5554 129.82)
+        Pressure : (-36.519 -46.2422 131.038)
+        Viscous  : (-0.0212423 0.68683 -1.21837)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.949 569.263 919.388)
+        Pressure : (-6.72248 569.544 919.438)
+        Viscous  : (-6.22652 -0.28101 -0.0498747)
+    Sum of moments
+        Total    : (-36.5469 -45.5414 129.73)
+        Pressure : (-36.5257 -46.2282 130.948)
+        Viscous  : (-0.021198 0.686807 -1.21829)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.37526080000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.0968 576.369 912.951)
+        Pressure : (-7.1538 576.56 913.01)
+        Viscous  : (-5.94297 -0.191347 -0.0593897)
+    Sum of moments
+        Total    : (-34.6761 -47.544 154.423)
+        Pressure : (-34.6619 -48.2517 155.58)
+        Viscous  : (-0.0142015 0.707731 -1.15762)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.0933 576.354 912.968)
+        Pressure : (-7.15118 576.545 913.027)
+        Viscous  : (-5.9421 -0.191101 -0.0591753)
+    Sum of moments
+        Total    : (-34.6779 -47.5477 154.399)
+        Pressure : (-34.6637 -48.2555 155.556)
+        Viscous  : (-0.014249 0.707838 -1.15733)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.50390100000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.7796 577.96 917.005)
+        Pressure : (-6.86782 578.165 917.099)
+        Viscous  : (-5.91183 -0.204985 -0.0936878)
+    Sum of moments
+        Total    : (-34.9573 -44.9406 152.468)
+        Pressure : (-34.9513 -45.6771 153.642)
+        Viscous  : (-0.00594333 0.736461 -1.17396)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7857 578.123 917.088)
+        Pressure : (-6.87396 578.327 917.181)
+        Viscous  : (-5.91173 -0.204582 -0.0929076)
+    Sum of moments
+        Total    : (-34.9601 -44.9459 152.528)
+        Pressure : (-34.954 -45.6823 153.702)
+        Viscous  : (-0.00612865 0.736405 -1.17384)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.70917960000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.4136 575.167 924.426)
+        Pressure : (-6.66169 575.369 924.54)
+        Viscous  : (-5.75189 -0.202388 -0.113772)
+    Sum of moments
+        Total    : (-36.0415 -48.612 135.516)
+        Pressure : (-36.0361 -49.3827 136.623)
+        Viscous  : (-0.00540944 0.77067 -1.10708)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.2242 573.498 923.84)
+        Pressure : (-6.47215 573.7 923.954)
+        Viscous  : (-5.75201 -0.202343 -0.11387)
+    Sum of moments
+        Total    : (-36.042 -47.8578 134.189)
+        Pressure : (-36.0366 -48.6281 135.296)
+        Viscous  : (-0.00533375 0.770356 -1.10673)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.47135100000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.6825 572.702 921.731)
+        Pressure : (-7.04008 572.962 921.836)
+        Viscous  : (-5.64237 -0.260034 -0.104567)
+    Sum of moments
+        Total    : (-36.1909 -45.2904 130.337)
+        Pressure : (-36.1746 -46.0278 131.471)
+        Viscous  : (-0.0163459 0.737379 -1.13418)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6755 572.57 921.668)
+        Pressure : (-7.03336 572.83 921.772)
+        Viscous  : (-5.64209 -0.260121 -0.104456)
+    Sum of moments
+        Total    : (-36.1887 -45.2558 130.282)
+        Pressure : (-36.1723 -45.9931 131.416)
+        Viscous  : (-0.0163783 0.737316 -1.13413)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.09682180000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.8808 565.902 919.977)
+        Pressure : (-7.4683 566.101 920.072)
+        Viscous  : (-5.41251 -0.198986 -0.0953571)
+    Sum of moments
+        Total    : (-36.5201 -46.6437 125.028)
+        Pressure : (-36.5106 -47.3051 126.097)
+        Viscous  : (-0.00950151 0.661406 -1.06909)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.8803 565.781 919.94)
+        Pressure : (-7.47187 565.979 920.036)
+        Viscous  : (-5.40838 -0.198578 -0.0952615)
+    Sum of moments
+        Total    : (-36.5153 -46.6733 125.067)
+        Pressure : (-36.5057 -47.335 126.136)
+        Viscous  : (-0.00953391 0.661681 -1.06828)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.52791480000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.4826 568.382 919.681)
+        Pressure : (-6.62051 568.627 919.736)
+        Viscous  : (-5.86209 -0.245435 -0.0544662)
+    Sum of moments
+        Total    : (-36.4093 -44.9531 125.243)
+        Pressure : (-36.3851 -45.7151 126.389)
+        Viscous  : (-0.0242016 0.761962 -1.14586)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.4934 568.443 919.743)
+        Pressure : (-6.63146 568.689 919.798)
+        Viscous  : (-5.86192 -0.245378 -0.0542801)
+    Sum of moments
+        Total    : (-36.4177 -44.9682 125.274)
+        Pressure : (-36.3935 -45.7302 126.42)
+        Viscous  : (-0.0242425 0.762001 -1.146)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.43058160000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.8619 572.623 922.681)
+        Pressure : (-6.85954 572.903 922.78)
+        Viscous  : (-6.00234 -0.280646 -0.0989649)
+    Sum of moments
+        Total    : (-36.367 -47.821 135.541)
+        Pressure : (-36.353 -48.5981 136.677)
+        Viscous  : (-0.0140825 0.777064 -1.13572)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.8244 571.86 922.897)
+        Pressure : (-6.8228 572.14 922.996)
+        Viscous  : (-6.0016 -0.280347 -0.0988623)
+    Sum of moments
+        Total    : (-36.3885 -47.8162 135.193)
+        Pressure : (-36.3744 -48.5931 136.329)
+        Viscous  : (-0.0140779 0.776903 -1.13551)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.55460080000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.4671 575.078 923.029)
+        Pressure : (-7.08607 575.364 923.087)
+        Viscous  : (-5.38102 -0.286175 -0.0582209)
+    Sum of moments
+        Total    : (-36.1154 -46.5048 134.974)
+        Pressure : (-36.0943 -47.1896 135.993)
+        Viscous  : (-0.0210825 0.684825 -1.01882)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.4656 575.038 923.031)
+        Pressure : (-7.08438 575.324 923.089)
+        Viscous  : (-5.38125 -0.286245 -0.058323)
+    Sum of moments
+        Total    : (-36.1135 -46.5114 134.97)
+        Pressure : (-36.0924 -47.196 135.988)
+        Viscous  : (-0.0210498 0.684604 -1.01874)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.94378320000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2872 576.869 922.687)
+        Pressure : (-6.47751 577.075 922.77)
+        Viscous  : (-5.80965 -0.206581 -0.0832165)
+    Sum of moments
+        Total    : (-35.6914 -46.4103 136.386)
+        Pressure : (-35.6797 -47.1605 137.522)
+        Viscous  : (-0.0116921 0.750283 -1.13559)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.2911 576.919 922.643)
+        Pressure : (-6.48271 577.126 922.727)
+        Viscous  : (-5.80837 -0.206657 -0.0834096)
+    Sum of moments
+        Total    : (-35.6876 -46.4039 136.402)
+        Pressure : (-35.676 -47.1542 137.537)
+        Viscous  : (-0.0116779 0.750374 -1.13541)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.75586280000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.8945 573.694 925.608)
+        Pressure : (-6.81396 573.912 925.567)
+        Viscous  : (-5.08052 -0.218283 0.0411084)
+    Sum of moments
+        Total    : (-36.5352 -47.7553 134.203)
+        Pressure : (-36.4999 -48.3452 135.124)
+        Viscous  : (-0.035245 0.589815 -0.921126)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.8966 573.698 925.592)
+        Pressure : (-6.81592 573.917 925.551)
+        Viscous  : (-5.08064 -0.218422 0.0407434)
+    Sum of moments
+        Total    : (-36.5336 -47.7509 134.204)
+        Pressure : (-36.4985 -48.3408 135.126)
+        Viscous  : (-0.0351587 0.589895 -0.921269)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.58676660000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.1255 570.89 920.219)
+        Pressure : (-7.30807 571.218 920.273)
+        Viscous  : (-5.8174 -0.327963 -0.0536985)
+    Sum of moments
+        Total    : (-36.3318 -47.7141 133.661)
+        Pressure : (-36.3015 -48.4456 134.765)
+        Viscous  : (-0.0303139 0.73143 -1.10336)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.0421 569.633 919.974)
+        Pressure : (-7.22473 569.96 920.028)
+        Viscous  : (-5.81736 -0.32738 -0.0536365)
+    Sum of moments
+        Total    : (-36.3188 -47.5989 132.928)
+        Pressure : (-36.2885 -48.3303 134.031)
+        Viscous  : (-0.0303287 0.731431 -1.10334)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.91781580000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.7835 570.122 922.834)
+        Pressure : (-7.15306 570.43 922.939)
+        Viscous  : (-5.63046 -0.308816 -0.104714)
+    Sum of moments
+        Total    : (-36.4506 -48.3818 134.383)
+        Pressure : (-36.4284 -49.0863 135.449)
+        Viscous  : (-0.0222739 0.704454 -1.06619)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7805 569.915 922.774)
+        Pressure : (-7.15269 570.223 922.879)
+        Viscous  : (-5.62783 -0.30863 -0.104741)
+    Sum of moments
+        Total    : (-36.4483 -48.3665 134.388)
+        Pressure : (-36.4261 -49.0711 135.453)
+        Viscous  : (-0.0222764 0.704635 -1.06561)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.28643340000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.41 567.297 923.081)
+        Pressure : (-7.2149 567.524 923.105)
+        Viscous  : (-5.19506 -0.227028 -0.0235451)
+    Sum of moments
+        Total    : (-36.6868 -48.5272 131.134)
+        Pressure : (-36.6612 -49.1105 132.096)
+        Viscous  : (-0.0255568 0.583342 -0.962063)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.4249 567.319 923.064)
+        Pressure : (-7.23058 567.546 923.088)
+        Viscous  : (-5.19435 -0.227135 -0.0237913)
+    Sum of moments
+        Total    : (-36.6881 -48.537 131.18)
+        Pressure : (-36.6626 -49.1203 132.142)
+        Viscous  : (-0.0254922 0.583279 -0.961807)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.55593960000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.2024 563.183 915.38)
+        Pressure : (-7.13114 563.475 915.453)
+        Viscous  : (-6.07131 -0.291552 -0.0727255)
+    Sum of moments
+        Total    : (-36.8255 -44.8986 131.324)
+        Pressure : (-36.7997 -45.6382 132.521)
+        Viscous  : (-0.0257739 0.739593 -1.19665)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.198 563.184 915.389)
+        Pressure : (-7.12845 563.476 915.463)
+        Viscous  : (-6.0695 -0.291345 -0.0734371)
+    Sum of moments
+        Total    : (-36.8252 -44.9051 131.307)
+        Pressure : (-36.7996 -45.6447 132.503)
+        Viscous  : (-0.025608 0.739653 -1.19619)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.57075280000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.4202 578.146 922.078)
+        Pressure : (-6.48047 578.445 922.14)
+        Viscous  : (-5.93978 -0.299096 -0.0620895)
+    Sum of moments
+        Total    : (-35.6355 -46.6331 142.272)
+        Pressure : (-35.6119 -47.3565 143.41)
+        Viscous  : (-0.0236866 0.723376 -1.13709)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.4214 578.227 922.135)
+        Pressure : (-6.48403 578.527 922.197)
+        Viscous  : (-5.93735 -0.299482 -0.0622136)
+    Sum of moments
+        Total    : (-35.6394 -46.6352 142.292)
+        Pressure : (-35.6158 -47.3581 143.429)
+        Viscous  : (-0.0236448 0.722943 -1.13647)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.98763700000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.0876 566.265 916.243)
+        Pressure : (-7.04414 566.579 916.34)
+        Viscous  : (-6.04348 -0.313807 -0.0968325)
+    Sum of moments
+        Total    : (-36.1894 -46.5478 135.768)
+        Pressure : (-36.1622 -47.243 136.931)
+        Viscous  : (-0.0271577 0.695159 -1.16222)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.086 566.229 916.237)
+        Pressure : (-7.04319 566.543 916.334)
+        Viscous  : (-6.04282 -0.313548 -0.096819)
+    Sum of moments
+        Total    : (-36.1903 -46.5433 135.755)
+        Pressure : (-36.1631 -47.2385 136.917)
+        Viscous  : (-0.0271731 0.695198 -1.16202)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.19584700000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2802 568.765 919.42)
+        Pressure : (-6.76686 569.03 919.467)
+        Viscous  : (-5.5133 -0.265157 -0.0466503)
+    Sum of moments
+        Total    : (-36.34 -45.7035 130.226)
+        Pressure : (-36.3175 -46.4063 131.276)
+        Viscous  : (-0.0225633 0.702777 -1.04977)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.3014 568.994 919.55)
+        Pressure : (-6.79003 569.259 919.597)
+        Viscous  : (-5.51138 -0.265167 -0.047071)
+    Sum of moments
+        Total    : (-36.3445 -45.7882 130.367)
+        Pressure : (-36.3221 -46.4912 131.417)
+        Viscous  : (-0.0224666 0.702971 -1.04941)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.57752360000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.9199 571.298 922.359)
+        Pressure : (-7.28408 571.576 922.412)
+        Viscous  : (-5.63587 -0.278292 -0.0532384)
+    Sum of moments
+        Total    : (-36.3404 -48.0251 136.026)
+        Pressure : (-36.3205 -48.6054 137.11)
+        Viscous  : (-0.0198941 0.58026 -1.08409)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.9598 572.119 922.537)
+        Pressure : (-7.32434 572.397 922.591)
+        Viscous  : (-5.63543 -0.27845 -0.0533133)
+    Sum of moments
+        Total    : (-36.3356 -48.1956 136.485)
+        Pressure : (-36.3157 -48.7758 137.569)
+        Viscous  : (-0.0198799 0.580201 -1.08396)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.74760800000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.7384 575.505 924.954)
+        Pressure : (-6.04924 575.686 925.04)
+        Viscous  : (-5.68915 -0.180859 -0.0860254)
+    Sum of moments
+        Total    : (-36.1083 -45.2863 132.996)
+        Pressure : (-36.1008 -46.0392 134.069)
+        Viscous  : (-0.00746258 0.752853 -1.07289)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.7391 575.558 924.996)
+        Pressure : (-6.0484 575.739 925.082)
+        Viscous  : (-5.69072 -0.180997 -0.0865413)
+    Sum of moments
+        Total    : (-36.108 -45.3264 133.03)
+        Pressure : (-36.1006 -46.0795 134.103)
+        Viscous  : (-0.00736201 0.753069 -1.07335)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.55526860000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.9132 578.125 924.989)
+        Pressure : (-6.17045 578.277 925.102)
+        Viscous  : (-5.74275 -0.152396 -0.112604)
+    Sum of moments
+        Total    : (-35.6673 -46.8307 139.449)
+        Pressure : (-35.6688 -47.5965 140.552)
+        Viscous  : (0.00150897 0.765729 -1.10242)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.9192 578.108 925.003)
+        Pressure : (-6.17731 578.261 925.115)
+        Viscous  : (-5.74191 -0.152446 -0.112318)
+    Sum of moments
+        Total    : (-35.669 -46.8481 139.484)
+        Pressure : (-35.6704 -47.6137 140.587)
+        Viscous  : (0.00144238 0.765572 -1.10226)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.70614260000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.147 577.075 924.249)
+        Pressure : (-6.47646 577.341 924.306)
+        Viscous  : (-5.67051 -0.266383 -0.0569182)
+    Sum of moments
+        Total    : (-35.8231 -47.5276 140.47)
+        Pressure : (-35.804 -48.2083 141.546)
+        Viscous  : (-0.0191167 0.680658 -1.07588)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.1549 577.088 924.269)
+        Pressure : (-6.48419 577.354 924.327)
+        Viscous  : (-5.67072 -0.266714 -0.0572088)
+    Sum of moments
+        Total    : (-35.826 -47.5628 140.516)
+        Pressure : (-35.8069 -48.2434 141.592)
+        Viscous  : (-0.0190432 0.680601 -1.07592)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.09054460000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.6658 575.972 923.749)
+        Pressure : (-6.18001 576.17 923.804)
+        Viscous  : (-5.48582 -0.197368 -0.0546177)
+    Sum of moments
+        Total    : (-35.7872 -45.2534 134.721)
+        Pressure : (-35.7732 -45.96 135.759)
+        Viscous  : (-0.013999 0.706577 -1.0378)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.7317 576.864 923.74)
+        Pressure : (-6.2488 577.061 923.795)
+        Viscous  : (-5.48294 -0.197297 -0.054578)
+    Sum of moments
+        Total    : (-35.7884 -45.327 135.252)
+        Pressure : (-35.7743 -46.0336 136.289)
+        Viscous  : (-0.0140211 0.706554 -1.03718)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.45446560000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2832 571.777 923.269)
+        Pressure : (-6.74756 571.97 923.37)
+        Viscous  : (-5.53561 -0.192838 -0.100884)
+    Sum of moments
+        Total    : (-36.2185 -45.6564 131.656)
+        Pressure : (-36.2093 -46.3603 132.724)
+        Viscous  : (-0.0091766 0.703984 -1.0685)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.302 572.678 923.471)
+        Pressure : (-6.76576 572.871 923.572)
+        Viscous  : (-5.53628 -0.192862 -0.100895)
+    Sum of moments
+        Total    : (-36.2312 -45.8657 132.019)
+        Pressure : (-36.222 -46.5696 133.088)
+        Viscous  : (-0.00918499 0.703914 -1.06869)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.59615840000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2466 578.82 923.507)
+        Pressure : (-6.80064 579.045 923.487)
+        Viscous  : (-5.446 -0.225819 0.0192802)
+    Sum of moments
+        Total    : (-35.7088 -46.8063 141.539)
+        Pressure : (-35.6778 -47.4305 142.539)
+        Viscous  : (-0.0310598 0.624163 -1.00005)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.2454 578.862 923.479)
+        Pressure : (-6.80042 579.089 923.46)
+        Viscous  : (-5.44496 -0.226394 0.018483)
+    Sum of moments
+        Total    : (-35.7107 -46.8123 141.51)
+        Pressure : (-35.6799 -47.4363 142.51)
+        Viscous  : (-0.0308665 0.623952 -0.999741)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.42609620000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.7711 576.465 923.289)
+        Pressure : (-6.08679 576.705 923.344)
+        Viscous  : (-5.6843 -0.240465 -0.0551093)
+    Sum of moments
+        Total    : (-35.7155 -46.6431 139.073)
+        Pressure : (-35.695 -47.3804 140.142)
+        Viscous  : (-0.0204609 0.737299 -1.06897)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.7655 576.507 923.322)
+        Pressure : (-6.08246 576.747 923.376)
+        Viscous  : (-5.68308 -0.239941 -0.0544962)
+    Sum of moments
+        Total    : (-35.7164 -46.643 139.07)
+        Pressure : (-35.6958 -47.3801 140.138)
+        Viscous  : (-0.0206109 0.73712 -1.06872)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.85545820000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.2348 576.079 923.584)
+        Pressure : (-6.53409 576.321 923.656)
+        Viscous  : (-5.7007 -0.242108 -0.0727027)
+    Sum of moments
+        Total    : (-35.9535 -46.2621 137.447)
+        Pressure : (-35.9388 -46.9764 138.538)
+        Viscous  : (-0.0147295 0.714308 -1.09076)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.268 576.287 923.657)
+        Pressure : (-6.56735 576.529 923.73)
+        Viscous  : (-5.7007 -0.242044 -0.0727202)
+    Sum of moments
+        Total    : (-35.9574 -46.3391 137.625)
+        Pressure : (-35.9427 -47.0534 138.716)
+        Viscous  : (-0.0147412 0.714274 -1.09085)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.27071720000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.1596 575.312 921.863)
+        Pressure : (-6.43468 575.543 921.965)
+        Viscous  : (-5.72491 -0.23154 -0.101878)
+    Sum of moments
+        Total    : (-35.8986 -45.4279 137.095)
+        Pressure : (-35.8911 -46.1852 138.197)
+        Viscous  : (-0.00748612 0.757364 -1.1025)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.1592 575.392 921.889)
+        Pressure : (-6.43406 575.623 921.99)
+        Viscous  : (-5.72514 -0.231043 -0.101163)
+    Sum of moments
+        Total    : (-35.897 -45.4266 137.104)
+        Pressure : (-35.8893 -46.1836 138.207)
+        Viscous  : (-0.00767041 0.756954 -1.10251)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.67739480000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.0958 576.889 925.959)
+        Pressure : (-6.17896 577.054 926.097)
+        Viscous  : (-5.91682 -0.164438 -0.138887)
+    Sum of moments
+        Total    : (-35.5951 -46.5978 140.094)
+        Pressure : (-35.6012 -47.3683 141.254)
+        Viscous  : (0.00611901 0.770563 -1.15994)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.1008 576.895 925.965)
+        Pressure : (-6.18578 577.06 926.103)
+        Viscous  : (-5.91503 -0.164483 -0.138691)
+    Sum of moments
+        Total    : (-35.5966 -46.6311 140.14)
+        Pressure : (-35.6027 -47.4016 141.3)
+        Viscous  : (0.00605676 0.770495 -1.15951)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.12712740000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.8637 568.443 923.876)
+        Pressure : (-6.98685 568.753 923.943)
+        Viscous  : (-5.87688 -0.310023 -0.0667596)
+    Sum of moments
+        Total    : (-37.011 -46.9462 124.702)
+        Pressure : (-36.9865 -47.668 125.828)
+        Viscous  : (-0.0244913 0.72184 -1.12583)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.8702 568.76 923.84)
+        Pressure : (-6.99716 569.07 923.907)
+        Viscous  : (-5.87309 -0.309453 -0.0666667)
+    Sum of moments
+        Total    : (-36.9782 -46.8002 125.198)
+        Pressure : (-36.9537 -47.5223 126.323)
+        Viscous  : (-0.0245057 0.722127 -1.12509)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.24955720000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.8741 573.251 924.397)
+        Pressure : (-6.9949 573.398 924.606)
+        Viscous  : (-5.87916 -0.14752 -0.208642)
+    Sum of moments
+        Total    : (-36.4713 -46.2767 130.331)
+        Pressure : (-36.4904 -47.0416 131.493)
+        Viscous  : (0.0190246 0.764872 -1.16233)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.8794 572.547 924.146)
+        Pressure : (-6.99363 572.695 924.354)
+        Viscous  : (-5.88581 -0.148714 -0.207976)
+    Sum of moments
+        Total    : (-36.4743 -46.2595 130.237)
+        Pressure : (-36.4932 -47.024 131.401)
+        Viscous  : (0.0189633 0.764485 -1.16367)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.86315900000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.8896 573.318 919.957)
+        Pressure : (-7.16138 573.612 920.044)
+        Viscous  : (-5.72821 -0.294558 -0.0874232)
+    Sum of moments
+        Total    : (-36.1128 -45.8471 139.242)
+        Pressure : (-36.0919 -46.5706 140.317)
+        Viscous  : (-0.0208768 0.723425 -1.07519)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7698 572.301 919.509)
+        Pressure : (-7.04257 572.596 919.597)
+        Viscous  : (-5.72724 -0.294818 -0.0873286)
+    Sum of moments
+        Total    : (-36.1007 -45.4192 138.413)
+        Pressure : (-36.0798 -46.1426 139.488)
+        Viscous  : (-0.0208637 0.723422 -1.07494)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.62718820000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.755 574.162 920.522)
+        Pressure : (-6.84619 574.367 920.635)
+        Viscous  : (-5.90883 -0.204272 -0.112977)
+    Sum of moments
+        Total    : (-35.8936 -46.014 136.632)
+        Pressure : (-35.8833 -46.7979 137.788)
+        Viscous  : (-0.0102938 0.783889 -1.15507)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7567 574.116 920.49)
+        Pressure : (-6.84582 574.321 920.603)
+        Viscous  : (-5.91088 -0.20472 -0.113742)
+    Sum of moments
+        Total    : (-35.8915 -46.015 136.605)
+        Pressure : (-35.8814 -46.7984 137.761)
+        Viscous  : (-0.0101063 0.783425 -1.1554)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.57104840000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.6986 570.74 916.485)
+        Pressure : (-7.18848 571.013 916.555)
+        Viscous  : (-5.51017 -0.273083 -0.0693432)
+    Sum of moments
+        Total    : (-35.9776 -44.6844 136.552)
+        Pressure : (-35.9559 -45.324 137.663)
+        Viscous  : (-0.021736 0.639578 -1.11125)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6937 570.786 916.437)
+        Pressure : (-7.18563 571.06 916.507)
+        Viscous  : (-5.50809 -0.273697 -0.0703493)
+    Sum of moments
+        Total    : (-35.9747 -44.6636 136.533)
+        Pressure : (-35.9532 -45.3032 137.644)
+        Viscous  : (-0.0214827 0.639557 -1.1109)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.42517920000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-11.7974 576.72 921.77)
+        Pressure : (-6.20263 576.926 921.827)
+        Viscous  : (-5.5948 -0.206221 -0.0566866)
+    Sum of moments
+        Total    : (-35.3541 -44.9145 140.003)
+        Pressure : (-35.34 -45.6132 141.08)
+        Viscous  : (-0.0141515 0.698671 -1.07768)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-11.9369 578.278 922.083)
+        Pressure : (-6.34149 578.484 922.139)
+        Viscous  : (-5.59538 -0.206511 -0.0563437)
+    Sum of moments
+        Total    : (-35.3673 -45.3377 141.07)
+        Pressure : (-35.353 -46.036 142.148)
+        Viscous  : (-0.0142633 0.698333 -1.07786)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 23.75244860000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.7395 565.989 921.364)
+        Pressure : (-6.9767 566.28 921.393)
+        Viscous  : (-5.76285 -0.290456 -0.0284172)
+    Sum of moments
+        Total    : (-37.0818 -48.2861 126.52)
+        Pressure : (-37.06 -48.927 127.609)
+        Viscous  : (-0.0217463 0.640887 -1.08893)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7637 565.976 921.356)
+        Pressure : (-6.99895 566.266 921.384)
+        Viscous  : (-5.76477 -0.290593 -0.0284214)
+    Sum of moments
+        Total    : (-37.085 -48.3093 126.687)
+        Pressure : (-37.0633 -48.9497 127.777)
+        Viscous  : (-0.0216981 0.640358 -1.08946)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.29580840000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.7551 582.196 919.879)
+        Pressure : (-6.97005 582.517 919.975)
+        Viscous  : (-5.78506 -0.320093 -0.0957736)
+    Sum of moments
+        Total    : (-35.5153 -46.7007 148.093)
+        Pressure : (-35.4827 -47.3509 149.229)
+        Viscous  : (-0.0325538 0.650248 -1.1354)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7501 582.159 919.9)
+        Pressure : (-6.97042 582.48 919.996)
+        Viscous  : (-5.77968 -0.32012 -0.0954504)
+    Sum of moments
+        Total    : (-35.5134 -46.7045 148.118)
+        Pressure : (-35.4808 -47.3551 149.252)
+        Viscous  : (-0.032614 0.650599 -1.13405)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.43905160000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.4824 566.094 918.839)
+        Pressure : (-6.9823 566.306 918.913)
+        Viscous  : (-5.50015 -0.212019 -0.0745519)
+    Sum of moments
+        Total    : (-36.7162 -47.1114 126.132)
+        Pressure : (-36.7058 -47.8116 127.168)
+        Viscous  : (-0.0104637 0.700176 -1.03576)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.4956 566.151 918.79)
+        Pressure : (-6.99232 566.363 918.864)
+        Viscous  : (-5.50331 -0.212312 -0.0745161)
+    Sum of moments
+        Total    : (-36.7179 -47.1042 126.214)
+        Pressure : (-36.7074 -47.8041 127.25)
+        Viscous  : (-0.010456 0.69988 -1.03637)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.76061680000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.7267 574.144 924.081)
+        Pressure : (-6.90327 574.412 924.162)
+        Viscous  : (-5.8234 -0.267274 -0.0807804)
+    Sum of moments
+        Total    : (-36.2131 -47.5652 132.739)
+        Pressure : (-36.1933 -48.3145 133.828)
+        Viscous  : (-0.0197936 0.749299 -1.08974)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7499 574.387 924.135)
+        Pressure : (-6.92113 574.655 924.216)
+        Viscous  : (-5.82876 -0.267374 -0.080759)
+    Sum of moments
+        Total    : (-36.2155 -47.6113 132.857)
+        Pressure : (-36.1957 -48.3599 133.948)
+        Viscous  : (-0.0197997 0.748682 -1.09097)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.39714600000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.0258 569.47 919.923)
+        Pressure : (-7.29008 569.701 920.049)
+        Viscous  : (-5.73572 -0.230485 -0.126249)
+    Sum of moments
+        Total    : (-36.2432 -45.8879 131.113)
+        Pressure : (-36.2312 -46.6155 132.269)
+        Viscous  : (-0.0119878 0.727618 -1.15608)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.0386 569.499 919.948)
+        Pressure : (-7.30174 569.729 920.074)
+        Viscous  : (-5.73687 -0.230437 -0.12626)
+    Sum of moments
+        Total    : (-36.2448 -45.927 131.211)
+        Pressure : (-36.2328 -46.6544 132.367)
+        Viscous  : (-0.0120015 0.727403 -1.15631)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.02270320000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.929 560.686 917.253)
+        Pressure : (-7.08665 560.904 917.363)
+        Viscous  : (-5.8423 -0.218842 -0.109406)
+    Sum of moments
+        Total    : (-37.2231 -45.6493 131.37)
+        Pressure : (-37.2111 -46.4088 132.52)
+        Viscous  : (-0.0120906 0.759476 -1.15051)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.9311 560.757 917.267)
+        Pressure : (-7.08983 560.976 917.376)
+        Viscous  : (-5.8413 -0.218875 -0.109633)
+    Sum of moments
+        Total    : (-37.2213 -45.6633 131.386)
+        Pressure : (-37.2093 -46.423 132.536)
+        Viscous  : (-0.0120172 0.759705 -1.15011)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.04847620000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.3948 567.805 922.572)
+        Pressure : (-6.84674 568.063 922.585)
+        Viscous  : (-5.54809 -0.257683 -0.0137577)
+    Sum of moments
+        Total    : (-36.928 -45.966 123.531)
+        Pressure : (-36.9064 -46.5867 124.595)
+        Viscous  : (-0.0215854 0.620705 -1.06314)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.4401 568.634 922.502)
+        Pressure : (-6.89491 568.892 922.516)
+        Viscous  : (-5.54515 -0.257793 -0.0139615)
+    Sum of moments
+        Total    : (-36.9006 -46.2083 124.092)
+        Pressure : (-36.879 -46.8291 125.154)
+        Viscous  : (-0.0215438 0.62088 -1.06249)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.79702600000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-13.0212 563.087 913.721)
+        Pressure : (-6.91541 563.398 913.853)
+        Viscous  : (-6.1058 -0.311811 -0.132245)
+    Sum of moments
+        Total    : (-36.5492 -45.9602 140.747)
+        Pressure : (-36.5351 -46.6156 141.948)
+        Viscous  : (-0.0140363 0.655426 -1.20024)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-13.0264 563.018 913.699)
+        Pressure : (-6.91269 563.331 913.831)
+        Viscous  : (-6.11372 -0.312263 -0.132789)
+    Sum of moments
+        Total    : (-36.5487 -45.9469 140.728)
+        Pressure : (-36.5348 -46.6019 141.93)
+        Viscous  : (-0.0138896 0.655002 -1.20194)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 26.17888320000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.7835 571.875 920.896)
+        Pressure : (-7.03863 572.152 921.024)
+        Viscous  : (-5.74482 -0.277065 -0.128109)
+    Sum of moments
+        Total    : (-36.2629 -45.5584 133.638)
+        Pressure : (-36.2478 -46.2844 134.752)
+        Viscous  : (-0.0151739 0.725996 -1.114)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.7821 571.938 920.962)
+        Pressure : (-7.04034 572.215 921.09)
+        Viscous  : (-5.74181 -0.276795 -0.127899)
+    Sum of moments
+        Total    : (-36.2637 -45.5658 133.657)
+        Pressure : (-36.2485 -46.2919 134.77)
+        Viscous  : (-0.0152061 0.726036 -1.11323)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.53796140000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.295 567.997 921.925)
+        Pressure : (-7.15053 568.218 921.925)
+        Viscous  : (-5.14442 -0.220978 -7.67432e-05)
+    Sum of moments
+        Total    : (-36.6033 -47.3516 127.897)
+        Pressure : (-36.5777 -47.9482 128.845)
+        Viscous  : (-0.0256481 0.596597 -0.948098)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.2934 568.032 921.926)
+        Pressure : (-7.14925 568.253 921.926)
+        Viscous  : (-5.14414 -0.220816 -1.17373e-06)
+    Sum of moments
+        Total    : (-36.6038 -47.3406 127.896)
+        Pressure : (-36.5781 -47.9372 128.844)
+        Viscous  : (-0.0256699 0.596598 -0.948028)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 24.46699680000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.6643 576.573 922.568)
+        Pressure : (-6.89362 576.851 922.64)
+        Viscous  : (-5.77069 -0.277566 -0.0722619)
+    Sum of moments
+        Total    : (-35.6952 -48.6613 147.048)
+        Pressure : (-35.6764 -49.3612 148.143)
+        Viscous  : (-0.018873 0.699885 -1.09482)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.6885 576.986 922.472)
+        Pressure : (-6.91931 577.263 922.544)
+        Viscous  : (-5.76917 -0.277572 -0.0722184)
+    Sum of moments
+        Total    : (-35.6904 -48.6473 147.292)
+        Pressure : (-35.6715 -49.3473 148.386)
+        Viscous  : (-0.0188993 0.700007 -1.09455)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.13546960000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.824 574.579 917.002)
+        Pressure : (-6.90597 574.86 917.097)
+        Viscous  : (-5.91799 -0.280414 -0.0943449)
+    Sum of moments
+        Total    : (-35.5464 -44.7498 142.902)
+        Pressure : (-35.5287 -45.4942 144.027)
+        Viscous  : (-0.0176897 0.74435 -1.12561)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.8227 574.636 917.067)
+        Pressure : (-6.90495 574.916 917.161)
+        Viscous  : (-5.91772 -0.280515 -0.0939538)
+    Sum of moments
+        Total    : (-35.5501 -44.7484 142.893)
+        Pressure : (-35.5323 -45.4927 144.019)
+        Viscous  : (-0.0177737 0.744276 -1.12566)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.80670440000000000000
+*** Results ***
+forces forces write:
+    Sum of forces
+        Total    : (-12.5316 570.184 922.693)
+        Pressure : (-6.81107 570.481 922.766)
+        Viscous  : (-5.72051 -0.297352 -0.0725293)
+    Sum of moments
+        Total    : (-36.7178 -46.1519 128.368)
+        Pressure : (-36.6928 -46.8002 129.47)
+        Viscous  : (-0.0249614 0.64834 -1.1024)
+--
+forces forces write:
+    Sum of forces
+        Total    : (-12.436 569.53 922.444)
+        Pressure : (-6.71735 569.827 922.516)
+        Viscous  : (-5.7186 -0.297505 -0.0725844)
+    Sum of moments
+        Total    : (-36.7141 -45.8484 127.795)
+        Pressure : (-36.6892 -46.4967 128.897)
+        Viscous  : (-0.0249263 0.648301 -1.102)
+Average total: 
+      pressure: 
+      viscous: 
+      resistance: 25.05148220000000000000
